@@ -77,7 +77,15 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
     **Result:**
-   	
+   	Mode observed: 1¾ mode (N = 1.75).
+
+Frequency range (within this mode): 9.360 GHz → 9.400 GHz.
+
+Electronic Tuning Range (ETR): 40 MHz.
+
+Electronic Tuning Sensitivity (ETS): 
+
+Output power (from VSWR readings): ≈ 2.00 W to 2.51 W across the measured repeller voltages.
 			
 			
 			
